@@ -19,14 +19,17 @@
 }
 
 div{
-    height: 100%;
+    height: 100%;    
 }
 
 
 .logo{    
-    position: absolute;
-    left: 37%;    
+    position: relative;    
+    width: 100%;    
+    display: flex;
+    justify-content: center;
 }
+
 
 .tabla{    
     position: absolute;
